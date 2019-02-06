@@ -1,0 +1,28 @@
+.mob{
+    position: relative;
+    height: 450px;
+    width:170px;
+    background: red;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.up{
+    justify-content: center;
+    display: flex;
+    background: pink;
+    height: 30px;
+    align-items: center;
+}
+.decorLine{
+    width: 30px;
+    height: 4px;
+    background:red;
+    border-radius: 25%;
+}
+.down{
+    background: pink;
+    height: 40px;
+
+}
